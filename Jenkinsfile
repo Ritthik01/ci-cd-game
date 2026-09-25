@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        KEY_PATH = "/var/lib/jenkins/FazoK.pem"
+        KEY_PATH = "/var/lib/jenkins/fazoK.pem"
     }
 
     stages {
